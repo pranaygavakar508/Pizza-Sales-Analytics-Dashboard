@@ -99,13 +99,6 @@ Includes SQL queries for:
 ## Dashboard Preview
 ![Dashboard](dashboard-overview.png.png)
 ---
-## Future Improvements
-- Customer Segmentation
-- Sales Forecasting
-- Profit Analysis
-- Store-wise Analysis
-- Time Intelligence Dashboard
----
 
 **Pranay Gavakar**
 
