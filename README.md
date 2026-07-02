@@ -97,7 +97,7 @@ Includes SQL queries for:
 - Data Visualization
 ---
 ## Dashboard Preview
-![Dashboard](Images/dashboard-overview.png)
+![Dashboard](dashboard-overview.png.png)
 ---
 ## Future Improvements
 - Customer Segmentation
